@@ -1,2 +1,2 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, Wo6767rld!");
+Console.WriteLine("Hello, Wo67мсм67rld!");
